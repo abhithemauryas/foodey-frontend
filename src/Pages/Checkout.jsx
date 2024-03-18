@@ -135,7 +135,7 @@ export default function Checkout() {
                   <Box
                     bg="white"
                     borderRadius="lg"
-                    w="80vh"
+                    w="50vh"
                     boxShadow="rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset"
                   >
                     <Box m={8} color="#0B0E3F" w="80%">
